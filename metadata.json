@@ -1,0 +1,6 @@
+{
+  "name": "CITYTWIN",
+  "description": "AI-Powered Digital Twin for Disaster Simulation & Emergency Planning",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
